@@ -1,5 +1,24 @@
-## Hi there 👋
+# Daniel Grace | DrDanielGrace
 
+CS student from Nigeria building toward 
+Flight Software Engineering and Satellite Systems.
+
+## Currently
+- CS50x (Final Project)
+- CS50p (Week 4)
+- Khan Academy Mathematics
+- FreeCodeCamp Python
+
+## Goals
+- BSc Computer Science at UoPeople
+- MS/PhD in Aerospace Engineering
+- Flight Software Engineer specialising in satellites
+
+## Languages
+Python | C | C++ (learning)
+
+## Connect
+- X: @DrDanielCGrace
 <!--
 **DrDanielGrace/DrDanielGrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
