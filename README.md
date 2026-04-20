@@ -7,6 +7,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrDanielGrace&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDanielGrace&layout=compact&theme=dark&hide_border=true)
+
+---
+
 ## 🔭 Currently Working On
 - CS50p — Python from Harvard
 - BS Computer Science at University of the People
@@ -21,14 +29,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielayobamideleojo/)
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://x.com/DrDanielCGrace)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/DrDanielGrace)
-
----
-
-## 📊 GitHub Stats
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrDanielGrace&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDanielGrace&layout=compact&theme=dark&hide_border=true)
 
 ---
 
