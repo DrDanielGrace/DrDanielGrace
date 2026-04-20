@@ -1,35 +1,43 @@
-# Daniel Grace | DrDanielGrace
+# Hi there, I'm Daniel 👋
 
-CS student from Nigeria building toward 
-Flight Software Engineering and Satellite Systems.
+🚀 Aspiring Flight Software Engineer from Lagos, Nigeria  
+🛰️ Passionate about Satellite Systems and Space Technology  
+🎮 Game Developer | 3D Artist | AI Data Annotator  
+🌍 Long term goal: Satellite development from Nigerian soil  
 
-## Currently
-- CS50x (Final Project)
-- CS50p (Week 4)
-- Khan Academy Mathematics
-- FreeCodeCamp Python
+---
 
-## Goals
-- BSc Computer Science at UoPeople
+## 🔭 Currently Working On
+- CS50p — Python from Harvard
+- BS Computer Science at University of the People
+- Building toward Flight Software Engineering
+
+## 🌱 Currently Learning
+- Python | C | C++
+- Aerospace Engineering fundamentals
+- MIT OpenCourseWare Physics and Math
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielayobamideleojo/)
+[![X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://x.com/DrDanielCGrace)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/DrDanielGrace)
+
+---
+
+## 📊 GitHub Stats
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrDanielGrace&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDanielGrace&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🏆 Certifications
+- CS50x: Introduction to Computer Science — Harvard University (2026)
+
+---
+
+## 🛰️ Goals
+- Flight Software Engineer specialising in satellite systems
 - MS/PhD in Aerospace Engineering
-- Flight Software Engineer specialising in satellites
-
-## Languages
-Python | C | C++ (learning)
-
-## Connect
-- X: @DrDanielCGrace
-<!--
-**DrDanielGrace/DrDanielGrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Contribute to indigenous satellite launch from Nigeria
