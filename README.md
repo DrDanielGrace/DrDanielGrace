@@ -29,6 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielayobamideleojo/)
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://x.com/DrDanielCGrace)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/DrDanielGrace)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayobamideledanielojo@gmail.com)
 
 ---
 
@@ -40,4 +41,4 @@
 ## 🛰️ Goals
 - Flight Software Engineer specialising in satellite systems
 - MS/PhD in Aerospace Engineering
-- Contribute to indigenous satellite launch from Nigeria
+- Contribute to an indigenous satellite launch from Nigeria
