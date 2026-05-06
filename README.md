@@ -13,6 +13,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDanielGrace&layout=compact&theme=dark&hide_border=true)
 
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrDanielGrace&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDanielGrace&layout=compact&theme=dark&hide_border=true)
+
 ---
 
 ## 🔭 Currently Working On
