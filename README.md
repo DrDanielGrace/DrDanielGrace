@@ -16,6 +16,10 @@
 ![Daniel's GitHub Stats](https://streak-stats.demolab.com?user=DrDanielGrace&theme=dark&hide_border=true)
 
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DrDanielGrace&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## 🔭 Currently Working On
