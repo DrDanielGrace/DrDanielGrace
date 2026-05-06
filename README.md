@@ -23,8 +23,9 @@
 ---
 
 ## 🔭 Currently Working On
-- CS50p — Python from Harvard
-- BS Computer Science at University of the People
+- CS50x, CS50p, CS50 AI — Harvard University
+- Applied Data Science Lab - World Quant University
+- BS Computer Science - University of the People
 - Building toward Flight Software Engineering
 
 ## 🌱 Currently Learning
