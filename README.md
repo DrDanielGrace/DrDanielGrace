@@ -13,6 +13,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDanielGrace&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
+![Daniel's GitHub Stats](https://streak-stats.demolab.com?user=DrDanielGrace&theme=dark&hide_border=true)
+
 
 ---
 
