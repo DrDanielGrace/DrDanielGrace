@@ -43,6 +43,8 @@
 
 ## 🏆 Certifications
 - CS50x: Introduction to Computer Science — Harvard University (2026)
+- CS50p
+- 
 
 ---
 
