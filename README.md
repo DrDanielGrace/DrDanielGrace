@@ -3,7 +3,7 @@
 🚀 Aspiring Flight Software Engineer from Lagos, Nigeria  
 🛰️ Passionate about Autonomous Systems, VR, Simulations, Satellite Systems and Space Technology  
 🎮 Game Developer | 3D Artist | AI Data Annotator  
-🌍 Long-term goal: Satellite development from Nigerian soil  
+🌍 Long-term goal: Satellite development and Space Tech.
 
 ---
 
