@@ -1,54 +1,34 @@
-# Hi there, I'm Daniel 👋
+# Daniel Ayobamidele Grace
 
-🚀 Aspiring Flight Software Engineer from Lagos, Nigeria  
-🛰️ Passionate about Autonomous Systems, VR, Simulations, Satellite Systems and Space Technology  
-🎮 Game Developer | 3D Artist | AI Data Annotator  
-🌍 Long-term goal: Satellite development and Space Tech.
+**Software Engineer | Aerospace Systems | 3D Visualization**
 
----
-
-## 📊 GitHub Stats
-
-<!--![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrDanielGrace&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDanielGrace&layout=compact&theme=dark&hide_border=true&langs_count=6) -->
-
-![Daniel's GitHub Stats](https://streak-stats.demolab.com?user=DrDanielGrace&theme=dark&hide_border=true)
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DrDanielGrace&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+Lagos, Nigeria
 
 ---
 
-## 🔭 Currently Working On
-- CS50x, CS50p, CS50 AI — Harvard University
-- Applied Data Science Lab - World Quant University
-- BS Computer Science - University of the People
-- Building toward Flight Software Engineering
+CS student at the University of the People. Studying through Harvard's CS50 series and pursuing applied data science at WorldQuant University. Building toward flight software engineering and satellite systems, with a parallel focus on 3D architectural visualization using Unreal Engine 5.
 
-## 🌱 Currently Learning
-- Python | C | C++
-- Aerospace Engineering fundamentals
-- MIT OpenCourseWare Physics and Math
+Long-term goal: contribute to indigenous satellite launches from Nigeria. MS/PhD in Aerospace Engineering.
 
-## 📫 Connect With Me
+### Currently Working On
+
+- Architectural visualization portfolio (Unreal Engine 5 + Twinmotion)
+- Mathematics foundation — Algebra through Calculus (Khan Academy)
+- Applied Data Science Lab — WorldQuant University
+- BS Computer Science — University of the People
+
+### Skills
+
+`Python` `C` `C++` `HTML/CSS` `SQL` `Unreal Engine 5` `Twinmotion` `Git` `VS Code`
+
+### Certifications
+
+- **CS50x** — Introduction to Computer Science, Harvard University (2026)
+- **CS50p** — Introduction to Programming with Python, Harvard University
+
+### Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-drdanielgrace.github.io-4f8ef7?style=flat)](https://drdanielgrace.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielayobamideleojo/)
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://x.com/DrDanielCGrace)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/DrDanielGrace)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayobamideledanielojo@gmail.com)
-
----
-
-## 🏆 Certifications
-- CS50x: Introduction to Computer Science — Harvard University (2026)
-- CS50p
-- 
-
----
-
-## 🛰️ Goals
-- Flight Software Engineer specialising in satellite systems
-- MS/PhD in Aerospace Engineering
-- Contribute to an indigenous satellite launch from Nigeria
