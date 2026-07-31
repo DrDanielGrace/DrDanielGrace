@@ -20,12 +20,13 @@ I build software at the intersection of aerospace, autonomous systems, and 3D vi
 
 ### Certifications
 
-- **CS50x** — Introduction to Computer Science, Harvard University (2026)
-- **CS50p** — Introduction to Programming with Python, Harvard University
+- **Advanced Flight Dispatch** // Lagos Aviation Academy (2026)
+- **CS50x** // Introduction to Computer Science, Harvard University (2026)
+- **CS50p** // Introduction to Programming with Python, Harvard University (2026)
 
 ### Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-drdanielgrace.github.io-4f8ef7?style=flat)](https://drdanielgrace.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-drdanielgrace.github.io-00ff41?style=flat)](https://drdanielgrace.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielayobamideleojo/)
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://x.com/DrDanielCGrace)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayobamideledanielojo@gmail.com)
