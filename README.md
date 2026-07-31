@@ -6,16 +6,13 @@ Lagos, Nigeria
 
 ---
 
-CS student at the University of the People. Studying through Harvard's CS50 series and pursuing applied data science at WorldQuant University. Building toward flight software engineering and satellite systems, with a parallel focus on 3D architectural visualization using Unreal Engine 5.
-
-Long-term goal: contribute to indigenous satellite launches from Nigeria. MS/PhD in Aerospace Engineering.
+I build software at the intersection of aerospace, autonomous systems, and 3D visualization. My work spans flight software engineering, satellite systems, autonomous drone navigation, and architectural visualization using Unreal Engine 5. Long-term goal: contribute to indigenous satellite launches from Nigeria.
 
 ### Currently Working On
 
 - Architectural visualization portfolio (Unreal Engine 5 + Twinmotion)
-- Mathematics foundation — Algebra through Calculus (Khan Academy)
-- Applied Data Science Lab — WorldQuant University
-- BS Computer Science — University of the People
+- Flight software engineering specialization
+- Applied data science
 
 ### Skills
 
